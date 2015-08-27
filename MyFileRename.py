@@ -24,8 +24,8 @@ import os
 print "Folder path? "  # asks for user to type desired folder path
 folder = raw_input()  # sets the 'folder' variable to desired folder path
 
-print "New base filename? "
-base_file = raw_input()
+print "New base filename? "  # asks user to type desired new base filename
+base_file = raw_input()  # sets the 'base_file' variable
 
 files = os.listdir(folder)  # sets the 'files' variable to a list of all the
 # files in the desired folder 
