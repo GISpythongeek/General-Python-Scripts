@@ -17,7 +17,7 @@ extension. So, "filename-01jan2015.pdf" can become "filename-24feb2015.pdf".
 I created this script because I regularly have to edit numerous files and update the
 date in the filename before I send the files to my colleagues. 
 
-I run this script via my command line on my Mac.
+I run this script via the command line on my Mac.
 """
 
 import os
