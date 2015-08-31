@@ -16,7 +16,7 @@ filename numbers to start, such as to "0" when I want to start with "1".)
 Naturally, I created this script because I sometimes have numerous files that 
 need to have new filenames labeled in sequential order.  
 
-I run this script via my command line on my Mac.
+I run this script via the command line on my Mac.
 """
 
 import os
