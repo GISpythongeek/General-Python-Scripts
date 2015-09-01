@@ -1,10 +1,5 @@
 # Script Name: MyDateUpdate.py
 # Author: Melanie
-# Date Created: 25 August 2015
-# Last Modified: 25 August 2015
-# Version: 1.0
-
-# Modifications: <none>
 
 """
 Description: This script will update the date at the end of each
