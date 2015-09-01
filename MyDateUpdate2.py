@@ -1,11 +1,8 @@
 # Script Name: MyDateUpdate2.py
 # Author: Melanie
-# Date Created: 26 August 2015
-# Last Modified: 26 August 2015
-# Version: 2.0
 
 # Modifications: Added the ability to change filenames with extensions of various
-# lengths (e.g., '.ai', '.txt', '.docx').
+	# lengths (e.g., '.ai', '.txt', '.docx').
 
 """
 Description: This script will update the date at the end of each
