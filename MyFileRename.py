@@ -1,10 +1,6 @@
 # Script Name: MyFileRename.py
 # Author: Melanie
-# Date Created: 27 August 2015
-# Last Modified: 27 August 2015
-# Version: 1.0
 
-# Modifications: <none>
 
 """ Description: This script will change the file name (excluding the extension)
 for files with 3-character extensions only.  NOTE --> My Mac always creates a
